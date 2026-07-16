@@ -3,6 +3,8 @@
 ## Overview
 This project implements and compares classical Machine Learning and Deep Learning models for binary sentiment analysis on the IMDb Large Movie Review Dataset using Scikit-learn and PyTorch.
 
+The project evaluates traditional machine learning algorithms alongside recurrent neural networks (RNNs) to analyze their performance on the same sentiment classification task. Performance is assessed using Precision, Recall, F1-score, and learning curves.
+
 ## Features
 
 ### Part A - Machine Learning
