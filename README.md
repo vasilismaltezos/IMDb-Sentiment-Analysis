@@ -1,10 +1,5 @@
 # IMDb Sentiment Analysis
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ## Overview
 This project implements and compares classical Machine Learning and Deep Learning models for binary sentiment analysis on the IMDb Large Movie Review Dataset using Scikit-learn and PyTorch.
 
