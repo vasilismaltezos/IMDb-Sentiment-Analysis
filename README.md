@@ -1,5 +1,10 @@
 # IMDb Sentiment Analysis
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## Overview
 This project implements and compares classical Machine Learning and Deep Learning models for binary sentiment analysis on the IMDb Large Movie Review Dataset using Scikit-learn and PyTorch.
 
@@ -11,6 +16,9 @@ The project evaluates traditional machine learning algorithms alongside recurren
 - Naive Bayes
 - Logistic Regression
 - Random Forest
+
+### Supporting Components
+- Text Preprocessing
 - Feature Extraction
 - Learning Curve Evaluation
 
@@ -78,3 +86,14 @@ The project evaluates different machine learning and deep learning models using:
 - Recall
 - F1-score
 - Learning Curves
+
+## Performance Evaluation
+
+The implemented models are evaluated using:
+
+- Precision
+- Recall
+- F1-score
+- Learning Curves
+
+The objective is to compare the effectiveness of classical Machine Learning algorithms with Deep Learning approaches for sentiment analysis.
