@@ -3,7 +3,7 @@
 ## Overview
 This project implements and compares classical Machine Learning and Deep Learning approaches for binary sentiment classification on the IMDb Large Movie Review Dataset.
 
-The project was developed as part of an Artificial Intelligence course and includes both traditional machine learning algorithms and recurrent neural networks implemented in Python.
+This project compares classical Machine Learning and Deep Learning models for sentiment analysis on the IMDb Large Movie Review Dataset using Scikit-learn and PyTorch.
 
 ## Features
 
