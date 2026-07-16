@@ -1,9 +1,7 @@
 # IMDb Sentiment Analysis
 
 ## Overview
-This project implements and compares classical Machine Learning and Deep Learning approaches for binary sentiment classification on the IMDb Large Movie Review Dataset.
-
-This project compares classical Machine Learning and Deep Learning models for sentiment analysis on the IMDb Large Movie Review Dataset using Scikit-learn and PyTorch.
+This project implements and compares classical Machine Learning and Deep Learning models for binary sentiment analysis on the IMDb Large Movie Review Dataset using Scikit-learn and PyTorch.
 
 ## Features
 
