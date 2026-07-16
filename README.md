@@ -5,16 +5,16 @@ This project implements and compares classical Machine Learning and Deep Learnin
 
 The project evaluates traditional machine learning algorithms alongside recurrent neural networks (RNNs) to analyze their performance on the same sentiment classification task. Performance is assessed using Precision, Recall, F1-score, and learning curves.
 
-## Features
+## Implemented Models
 
-### Part A - Machine Learning
+### Classical Machine Learning
 - Naive Bayes
 - Logistic Regression
 - Random Forest
 - Feature Extraction
 - Learning Curve Evaluation
 
-### Part B - Deep Learning
+### Deep Learning
 - Bidirectional RNN
 - LSTM/GRU
 - PyTorch implementation
