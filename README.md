@@ -73,15 +73,6 @@ Deep Learning:
 python imdb_rnn.py
 ```
 
-## Results
-
-The project evaluates different machine learning and deep learning models using:
-
-- Precision
-- Recall
-- F1-score
-- Learning Curves
-
 ## Performance Evaluation
 
 The implemented models are evaluated using:
