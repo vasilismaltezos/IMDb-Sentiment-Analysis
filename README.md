@@ -38,7 +38,7 @@ The project evaluates traditional machine learning algorithms alongside recurren
 
 ## Project Structure
 
-```
+```text
 .
 ├── main.py
 ├── preprocessing.py
@@ -49,7 +49,12 @@ The project evaluates traditional machine learning algorithms alongside recurren
 ├── imdb_rnn.py
 ├── evaluation.py
 ├── learning_curves.py
+├── create_loss_plot.py
+├── learning_curves_rf.png
+├── vocabulary.pkl
+├── best_model.pt
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
